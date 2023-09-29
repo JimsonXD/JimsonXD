@@ -33,7 +33,6 @@
 
 **Cloud and DevOps:**
 <div style="display: flex; gap: 4px;">
-    <img src="https://img.shields.io/badge/DevOps-00C7B7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="DevOps">
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
