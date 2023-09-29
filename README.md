@@ -33,11 +33,12 @@ I'm Jimson Montederamos, an enthusiastic software developer on a continuous jour
 - <img src="http://www.aionsolution.com/wp-content/uploads/2017/10/microsoft-azure-640x401.png" alt="Microsoft Azure (Custom Vision, Web App)" style="width: 100px; height: 100px;">
 - <img src="https://i.pinimg.com/736x/b3/e6/20/b3e6202f5356edebd8c8205623eef0f1.jpg" alt="Docker and Docker Compose" style="width: 100px; height: 100px;">
 - <img src="https://i.pinimg.com/564x/ba/c9/8c/bac98cfbbd24b9e481e20da3fb138a62.jpg" alt="GitHub Actions" style="width: 100px; height: 100px;">
-- <img src="https://i.pinimg.com/564x/46/ed/f9/46edf955a0d469b62f9ed8fb55c534ea.jpg" alt="Version Control with Git" style="width: 100px; height: 100px;">
+- <img src="https://p7.hiclipart.com/preview/659/158/534/devops-business-process-software-development-process-implementation-business-thumbnail.jpg" alt="DevOps" style="width: 100px; height: 100px;">
 </div>
 
 ### Collaboration and Version Control
 <div style="display: flex;">
+- <img src="https://i.pinimg.com/564x/46/ed/f9/46edf955a0d469b62f9ed8fb55c534ea.jpg" alt="Version Control with Git" style="width: 100px; height: 100px;">
 - <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo-1024x592.jpg" alt="GitHub" style="width: 100px; height: 100px;">
 - <img src="https://i.pinimg.com/564x/60/0a/ac/600aacef4d53d3139ffc017443d2c492.jpg" alt="Agile Methodology" style="width: 100px; height: 100px;">
 - <img src="https://spyro-soft.com/wp-content/uploads/2022/10/jira-icon-300x300.png" alt="Jira (Scrum)" style="width: 100px; height: 100px;">
