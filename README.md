@@ -53,6 +53,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JimsonXD&theme=material_palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JimsonXD&theme=material_palenight
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JimsonXD&theme=material_palenight)
 
 ### 🤝🏻 &nbsp;Connect with Me
 <div style="display: flex; gap: 4px;">
