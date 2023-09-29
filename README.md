@@ -7,7 +7,7 @@ I'm Jimson Montederamos, an enthusiastic software developer on a continuous jour
 ### Frontend
 <div style="display: flex;">
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/100px-HTML5_logo_and_wordmark.svg.png" alt="HTML">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/100px-CSS3_logo_and_wordmark.svg.png" alt="CSS">
+- <img src="https://i.pinimg.com/564x/e4/3e/4c/e43e4cd41ddffc21d2e6600dfca20306.jpg">
 - <img src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="JavaScript" style="width: 100px; height: 100px;">
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/100px-Typescript_logo_2020.svg.png" alt="TypeScript">
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/100px-React-icon.svg.png" alt="React">
