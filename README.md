@@ -50,7 +50,7 @@ I strongly embrace clean code, test-driven development, and following best pract
 
 ## Get in Touch 📫
 
-- GitHub: [JimsonXD](https://github.com/JimsonXD)
+- <button>GitHub</button>: [JimsonXD](https://github.com/JimsonXD)
 - LinkedIn: [Jimson Montederamos](https://www.linkedin.com/in/jimsonmontederamos/)
 - Email: [Jimson@missionreadyhq.com](mailto:Jimson@missionreadyhq.com)
 
