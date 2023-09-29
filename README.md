@@ -32,7 +32,7 @@ I'm Jimson Montederamos, an enthusiastic software developer on a continuous jour
 <div style="display: flex;">
 - <img src="http://www.aionsolution.com/wp-content/uploads/2017/10/microsoft-azure-640x401.png" alt="Microsoft Azure (Custom Vision, Web App)" style="width: 100px; height: 100px;">
 - <img src="https://i.pinimg.com/736x/b3/e6/20/b3e6202f5356edebd8c8205623eef0f1.jpg" alt="Docker and Docker Compose" style="width: 100px; height: 100px;">
-- <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_Met6rq9jTwMl7r29mX-Yg.png" alt="GitHub Actions" style="width: 100px; height: 100px;">
+- <img src="https://i.pinimg.com/564x/ba/c9/8c/bac98cfbbd24b9e481e20da3fb138a62.jpg" alt="GitHub Actions" style="width: 100px; height: 100px;">
 - <img src="https://banner2.cleanpng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg" alt="Version Control with Git" style="width: 100px; height: 100px;">
 </div>
 
