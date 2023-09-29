@@ -1,10 +1,8 @@
 # Hi 👋, I'm Jimson Montederamos
 ### MERN Stack Developer
 
-- 🌱 I’m currently learning about **Product Design**
-- 👨‍💻 All of my projects are available [here](https://www.vivek9patel.com/projects)
-- 💬 Ask me about **Javascript** & **CSS**
-- 📫 How to reach me: **vivek.p9737@gmail.com**
+- I’m an enthusiastic software developer on a continuous journey of learning and growth. My passion lies in crafting clean, user-friendly interfaces and building robust server-side logic. I specialize in web development, cloud technologies, and DevOps practices.
+- My goal is to collaborate on exciting projects, apply these principles, and achieve excellence together. Let's create something amazing!
 
 ### 🛠 &nbsp;Languages and Tools
 
@@ -55,9 +53,9 @@
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivek9patel&layout=compact&langs_count=8&theme=algolia)
 
 ### 🤝🏻 &nbsp;Connect with Me
-
+<div style="display: flex; gap: 4px;">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-
+</div>
 
