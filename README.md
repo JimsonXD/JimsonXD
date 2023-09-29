@@ -28,16 +28,16 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
     <img src="https://img.shields.io/badge/Snyk-4C6EF5?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk">
-
 </div>
-
 
 **Cloud and DevOps:**
 <div style="display: flex; gap: 4px;">
+    <img src="https://img.shields.io/badge/DevOps-00C7B7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="DevOps">
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-    
-    <img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm" alt="npm">
-    
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
+    <img src="https://img.shields.io/badge/Azure%20Custom%20Vision-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Custom Vision">
+    <img src="https://img.shields.io/badge/Azure%20Web%20App-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Web App">
 </div>
 
 **Collaboration and Version Control:**
@@ -47,8 +47,6 @@
     <img src="https://img.shields.io/badge/Agile-0095D5?style=for-the-badge&logo=agile&logoColor=white" alt="Agile Methodology">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira (Scrum)">
     <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Microsoft Teams">
-
-
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
