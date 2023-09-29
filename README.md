@@ -33,7 +33,7 @@ I'm Jimson Montederamos, an enthusiastic software developer on a continuous jour
 - <img src="http://www.aionsolution.com/wp-content/uploads/2017/10/microsoft-azure-640x401.png" alt="Microsoft Azure (Custom Vision, Web App)" style="width: 100px; height: 100px;">
 - <img src="https://i.pinimg.com/736x/b3/e6/20/b3e6202f5356edebd8c8205623eef0f1.jpg" alt="Docker and Docker Compose" style="width: 100px; height: 100px;">
 - <img src="https://i.pinimg.com/564x/ba/c9/8c/bac98cfbbd24b9e481e20da3fb138a62.jpg" alt="GitHub Actions" style="width: 100px; height: 100px;">
-- <img src="https://p7.hiclipart.com/preview/659/158/534/devops-business-process-software-development-process-implementation-business-thumbnail.jpg" alt="DevOps" style="width: 100px; height: 100px;">
+- <img src="https://cucumber.io/cucumber/media/blog/hiptest/devops-process.png" alt="DevOps" style="width: 100px; height: 100px;">
 </div>
 
 ### Collaboration and Version Control
