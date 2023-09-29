@@ -4,9 +4,9 @@
 - I’m an enthusiastic software developer on a continuous journey of learning and growth. My passion lies in crafting clean, user-friendly interfaces and building robust server-side logic. I specialize in web development, cloud technologies, and DevOps practices.
 - My goal is to collaborate on exciting projects, apply these principles, and achieve excellence together. Let's create something amazing!
 
-### 🛠 &nbsp;Personal Project
--E-commerce - Fullstack 
--Rental Property Listing - Fullstack
+### 🛠 &nbsp; Personal Project
+- E-commerce: Fullstack application
+- Rental Property Listing: Fullstack application
 
 ### 🛠 &nbsp;Languages and Tools
 
