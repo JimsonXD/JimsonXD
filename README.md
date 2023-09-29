@@ -6,14 +6,14 @@ I'm Jimson Montederamos, an enthusiastic software developer on a continuous jour
 
 ### Frontend
 <div style="display: flex;">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/100px-HTML5_logo_and_wordmark.svg.png" alt="HTML">
-- <img src="https://i.pinimg.com/564x/e4/3e/4c/e43e4cd41ddffc21d2e6600dfca20306.jpg">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/100px-HTML5_logo_and_wordmark.svg.png" alt="HTML" style="width: 100px; height: 100px;">
+- <img src="https://i.pinimg.com/564x/e4/3e/4c/e43e4cd41ddffc21d2e6600dfca20306.jpg" style="width: 100px; height: 100px;">
 - <img src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="JavaScript" style="width: 100px; height: 100px;">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/100px-Typescript_logo_2020.svg.png" alt="TypeScript">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/100px-React-icon.svg.png" alt="React">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/100px-Bootstrap_logo.svg.png" alt="Bootstrap">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/100px-Tailwind_CSS_logo.svg.png" alt="Tailwind CSS">
-- <img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*RQwRLQ0yyCvYmRn_Nst5yg.png" alt="Jest">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/100px-Typescript_logo_2020.svg.png" alt="TypeScript" style="width: 100px; height: 100px;">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/100px-React-icon.svg.png" alt="React" style="width: 100px; height: 100px;">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/100px-Bootstrap_logo.svg.png" alt="Bootstrap" style="width: 100px; height: 100px;">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/100px-Tailwind_CSS_logo.svg.png" alt="Tailwind CSS" style="width: 100px; height: 100px;">
+- <img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*RQwRLQ0yyCvYmRn_Nst5yg.png" alt="Jest" style="width: 100px; height: 100px;">
 </div>
 
 ### Backend
