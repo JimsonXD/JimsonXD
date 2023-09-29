@@ -44,6 +44,11 @@
 <div style="display: flex; gap: 4px;">
     <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff" alt="Git">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/Agile-0095D5?style=for-the-badge&logo=agile&logoColor=white" alt="Agile Methodology">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira (Scrum)">
+    <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Microsoft Teams">
+
+
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
