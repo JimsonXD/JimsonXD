@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Jimson Montederamos
+# Jimson Montederamos
 
-I'm Jimson Montederamos, an enthusiastic software developer on a continuous journey of learning and growth. My passion lies in crafting clean, user-friendly interfaces and building robust server-side logic. I specialize in web development, cloud technologies, and DevOps practices.
+Hi there👋 I'm Jimson Montederamos, an enthusiastic software developer on a continuous journey of learning and growth. My passion lies in crafting clean, user-friendly interfaces and building robust server-side logic. I specialize in web development, cloud technologies, and DevOps practices.
 
 ## Tech Stack 🚀
 
