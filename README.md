@@ -45,7 +45,7 @@ I'm Jimson Montederamos, an enthusiastic software developer on a continuous jour
 - <img src="https://i.pinimg.com/564x/03/3d/15/033d154d6cdb4c874ace55237e6beda4.jpg" alt="Microsoft Teams" style="width: 100px; height: 100px;">
 </div>
 
-I strongly believe in clean code, test-driven development, and following best practices. Let's collaborate on exciting projects and achieve excellence together!
+I strongly embrace clean code, test-driven development, and following best practices in software development. My goal is to collaborate on exciting projects, apply these principles, and achieve excellence together. Let's create something amazing!
 
 ## Get in Touch 📫
 
@@ -53,4 +53,4 @@ I strongly believe in clean code, test-driven development, and following best pr
 - LinkedIn: [Jimson Montederamos](https://www.linkedin.com/in/jimsonmontederamos/)
 - Email: [Jimson@missionreadyhq.com](mailto:Jimson@missionreadyhq.com)
 
-Let's connect and create something amazing!
+
