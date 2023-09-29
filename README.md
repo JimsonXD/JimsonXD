@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Vivek Patel</h1>
-<h3>MERN stack Developer</h3>
+<h3>MERN Stack Developer</h3>
 	
 - 🌱 I’m currently learning about **Product Design**
 
@@ -14,7 +14,7 @@
 ### 🛠 &nbsp;Languages and Tools
 
 **Frontend:**
-<div class="flex">
+<div style="display: flex; gap: 4;">
 - ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 - ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -31,19 +31,25 @@
 </div>
 
 **Backend:**
+<div style="display: flex; gap: 4;">
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Collaboration and Version Control:**
-- ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+</div>
 
 **Cloud and DevOps:**
+<div style="display: flex; gap: 4;">
 - ![Node.js](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 - ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
+
+**Collaboration and Version Control:**
+<div style="display: flex; gap: 4;">
+- ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+</div>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
