@@ -23,7 +23,6 @@ Hi there👋 I'm Jimson Montederamos, an enthusiastic software developer on a co
 - <img src="https://wiki.distech-controls.com/site-graphics-v2/restful-api-logo-01.png" alt="RESTful API Development" style="width: 100px; height: 100px;">
 - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" alt="MySQL">
 - <img src="https://i.pinimg.com/564x/b5/d6/27/b5d62700b569fc99f02636488e42f26e.jpg" alt="MongoDB" style="width: 100px; height: 100px;">
-- <img src="https://miro.medium.com/v2/resize:fit:978/1*jFw7ZZMoVcsEYM_fS33DBA.gif" alt="Test-Driven Development (TDD)" style="width: 100px; height: 100px;">
 - <img src="https://i.pinimg.com/564x/3c/78/c3/3c78c33276b4bf901f496744e20492aa.jpg" alt="Postman" style="width: 100px; height: 100px;">
 - <img src="https://i.pinimg.com/564x/46/d1/c5/46d1c53dac3d48c9b79c8bd58e376d59.jpg" alt="Secure Coding Practices" style="width: 100px; height: 100px;">
 </div>
