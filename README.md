@@ -6,7 +6,7 @@
 
 ### ⚙️ &nbsp; Personal Project
 - E-commerce: Fullstack application
-[Rental Property Listing: Fullstack application](https://6516af91d6bcc36c93565c44--precious-travesseiro-618cf0.netlify.app/)
+- [Rental Property Listing: Fullstack application](https://6516af91d6bcc36c93565c44--precious-travesseiro-618cf0.netlify.app/)
 
 ### 🛠 &nbsp;Languages and Tools
 
