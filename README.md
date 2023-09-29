@@ -48,6 +48,7 @@ I'm Jimson Montederamos, an enthusiastic software developer on a continuous jour
 <div>
 I strongly embrace clean code, test-driven development, and following best practices in software development. My goal is to collaborate on exciting projects, apply these principles, and achieve excellence together. Let's create something amazing!
 </div>
+
 ## Get in Touch 📫
 
 - GitHub: [JimsonXD](https://github.com/JimsonXD)
