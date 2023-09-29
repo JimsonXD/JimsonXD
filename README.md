@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Microsoft Teams">
 </div>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Profile Summary Cards
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JimsonXD&theme=material_palenight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JimsonXD&theme=material_palenight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JimsonXD&theme=material_palenight)
