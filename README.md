@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
     <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" alt="VS Code">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+    
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
 </div>
 
@@ -30,6 +30,7 @@
 
 **Cloud and DevOps:**
 <div style="display: flex; gap: 4px;">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
     <img src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff" alt="Node.js">
     <img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm" alt="npm">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -49,5 +50,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/vivek9patel)
-- Email: vivek.p9737@gmail.com
+- [Email:] (vivek.p9737@gmail.com)
 - [Twitter](https://twitter.com/vivek9patel)
