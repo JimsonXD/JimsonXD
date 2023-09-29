@@ -40,7 +40,7 @@ I'm Jimson Montederamos, an enthusiastic software developer on a continuous jour
 <div style="display: flex;">
 - <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo-1024x592.jpg" alt="GitHub" style="width: 100px; height: 100px;">
 - <img src="https://i.pinimg.com/564x/60/0a/ac/600aacef4d53d3139ffc017443d2c492.jpg" alt="Agile Methodology" style="width: 100px; height: 100px;">
-- <img src="https://assets.stickpng.com/images/62a9ad4c8ff6441a2952dab8.png" alt="Jira (Scrum)" style="width: 100px; height: 100px;">
+- <img src="https://spyro-soft.com/wp-content/uploads/2022/10/jira-icon-300x300.png" alt="Jira (Scrum)" style="width: 100px; height: 100px;">
 - <img src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-teams-logo-4.png" alt="Microsoft Teams" style="width: 100px; height: 100px;">
 </div>
 
