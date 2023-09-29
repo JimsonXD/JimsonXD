@@ -44,9 +44,10 @@ I'm Jimson Montederamos, an enthusiastic software developer on a continuous jour
 - <img src="https://spyro-soft.com/wp-content/uploads/2022/10/jira-icon-300x300.png" alt="Jira (Scrum)" style="width: 100px; height: 100px;">
 - <img src="https://i.pinimg.com/564x/03/3d/15/033d154d6cdb4c874ace55237e6beda4.jpg" alt="Microsoft Teams" style="width: 100px; height: 100px;">
 </div>
-
+<br/>
+<div>
 I strongly embrace clean code, test-driven development, and following best practices in software development. My goal is to collaborate on exciting projects, apply these principles, and achieve excellence together. Let's create something amazing!
-
+</div>
 ## Get in Touch 📫
 
 - GitHub: [JimsonXD](https://github.com/JimsonXD)
