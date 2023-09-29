@@ -5,8 +5,8 @@
 - My goal is to collaborate on exciting projects, apply these principles, and achieve excellence together. Let's create something amazing!
 
 ### ⚙️ &nbsp; Personal Project
-- [E-commerce: Fullstack application](https://6516b20ade7a676e65bc0614--velvety-entremet-da0840.netlify.app/)
-- [Rental Property Listing: Fullstack application](https://6516af91d6bcc36c93565c44--precious-travesseiro-618cf0.netlify.app/)
+- [E-commerce](https://6516b20ade7a676e65bc0614--velvety-entremet-da0840.netlify.app/)
+- [Rental Property Listing](https://6516af91d6bcc36c93565c44--precious-travesseiro-618cf0.netlify.app/)
 
 ### 🛠 &nbsp;Languages and Tools
 
