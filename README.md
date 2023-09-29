@@ -25,7 +25,7 @@ I'm Jimson Montederamos, an enthusiastic software developer on a continuous jour
 - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/MongoDB_Fores-Green.svg/100px-MongoDB_Fores-Green.svg.png" alt="MongoDB">
 - <img src="https://miro.medium.com/v2/resize:fit:978/1*jFw7ZZMoVcsEYM_fS33DBA.gif" alt="Test-Driven Development (TDD)" style="width: 100px; height: 100px;">
 - <img src="https://i.pinimg.com/564x/3c/78/c3/3c78c33276b4bf901f496744e20492aa.jpg" alt="Postman" style="width: 100px; height: 100px;">
-- <img src="https://www.pinterest.ph/pin/492651646748630542/visual-search/?x=16&y=16&w=532&h=288&cropSource=6&imageSignature=46d1c53dac3d48c9b79c8bd58e376d59" alt="Secure Coding Practices" style="width: 100px; height: 100px;">
+- <img src="https://i.pinimg.com/564x/46/d1/c5/46d1c53dac3d48c9b79c8bd58e376d59.jpg" alt="Secure Coding Practices" style="width: 100px; height: 100px;">
 </div>
 
 ### Cloud and DevOps
