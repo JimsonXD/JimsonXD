@@ -19,12 +19,12 @@ I'm Jimson Montederamos, an enthusiastic software developer on a continuous jour
 ### Backend
 <div style="display: flex;">
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/100px-Node.js_logo.svg.png" alt="Node.js">
-- <img src="https://i.pinimg.com/564x/d0/76/14/d07614a3d5fe92ca5e0000bb6d49923c.jpg" alt="Express.js" style="width: 100px; height: 100px;">
+- <img src="https://i.pinimg.com/564x/36/9f/e7/369fe719a5e682dc66f03a3b13687f7f.jpg" alt="Express.js" style="width: 100px; height: 100px;">
 - <img src="https://wiki.distech-controls.com/site-graphics-v2/restful-api-logo-01.png" alt="RESTful API Development" style="width: 100px; height: 100px;">
 - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" alt="MySQL">
 - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/MongoDB_Fores-Green.svg/100px-MongoDB_Fores-Green.svg.png" alt="MongoDB">
 - <img src="https://miro.medium.com/v2/resize:fit:978/1*jFw7ZZMoVcsEYM_fS33DBA.gif" alt="Test-Driven Development (TDD)" style="width: 100px; height: 100px;">
-- <img src="https://www.vhv.rs/dpng/d/499-4996069_postman-logo-circle-hd-png-download.png" alt="Postman" style="width: 100px; height: 100px;">
+- <img src="https://i.pinimg.com/564x/3c/78/c3/3c78c33276b4bf901f496744e20492aa.jpg" alt="Postman" style="width: 100px; height: 100px;">
 - <img src="https://snyk.io/_next/image/?url=https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1537282843%2Fpress-kit%2Ftitle-card-logo-black.png&w=1240&q=75" alt="Secure Coding Practices" style="width: 100px; height: 100px;">
 </div>
 
