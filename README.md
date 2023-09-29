@@ -6,7 +6,7 @@ Hi there👋 I'm Jimson Montederamos, an enthusiastic software developer on a co
 
 ### Frontend
 <div style="display: flex; gap: 4;">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/100px-HTML5_logo_and_wordmark.svg.png" alt="HTML" style="width: 100px; height: 100px;">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/100px-HTML5_logo_and_wordmark.svg.png" alt="HTML" style="width: 70px; height:70px;">
 - <img src="https://i.pinimg.com/564x/68/e6/a1/68e6a101a546d9511de9fe35fadf3288.jpg" style="width: 70px; height: 70px;">
 - <img src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="JavaScript" style="width: 100px; height: 100px;">
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/100px-Typescript_logo_2020.svg.png" alt="TypeScript" style="width: 100px; height: 100px;">
