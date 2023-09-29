@@ -1,57 +1,68 @@
-# Jimson Montederamos
+<h1 align="center">Hi 👋, I'm Vivek Patel</h1>
+<h3 align="center">A passionate Software Engineer</h3>
+	
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
+</p>
 
-Hi there👋 I'm Jimson Montederamos, an enthusiastic software developer on a continuous journey of learning and growth. My passion lies in crafting clean, user-friendly interfaces and building robust server-side logic. I specialize in web development, cloud technologies, and DevOps practices.
+- 🌱 I’m currently learning about **Product Design**
 
-## Tech Stack 🚀
+- 👨‍💻 All of my projects are available [here](https://www.vivek9patel.com/projects)
 
-### Frontend
-<div style="display: flex; gap: 4;">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/100px-HTML5_logo_and_wordmark.svg.png" alt="HTML" style="width: 70px; height:70px;">
-- <img src="https://i.pinimg.com/564x/68/e6/a1/68e6a101a546d9511de9fe35fadf3288.jpg" style="width: 70px; height: 70px;">
-- <img src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="JavaScript" style="width: 70px; height:70px;";">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/100px-Typescript_logo_2020.svg.png" alt="TypeScript" style="width: 70px; height:70px;">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/100px-React-icon.svg.png" alt="React" style="width: 70px; height:70px;">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/100px-Bootstrap_logo.svg.png" alt="Bootstrap" style="width: 70px; height:70px;">
-- <img src="https://i.pinimg.com/564x/b3/31/b3/b331b3b70e4d2e38496f6a859e4e73df.jpg" alt="Tailwind CSS" style="width: 70px; height:70px;">
-- <img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*RQwRLQ0yyCvYmRn_Nst5yg.png" alt="Jest" style="width: 70px; height:70px;">
-</div>
+- 💬 Ask me about **Javascript** & **CSS**
 
-### Backend
-<div style="display: flex; gap: 4;">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/100px-Node.js_logo.svg.png" alt="Node.js" style="width: 70px; height:70px;">
-- <img src="https://i.pinimg.com/564x/36/9f/e7/369fe719a5e682dc66f03a3b13687f7f.jpg" alt="Express.js" style="width: 70px; height:70px;">
-- <img src="https://wiki.distech-controls.com/site-graphics-v2/restful-api-logo-01.png" alt="RESTful API Development" style="width: 70px; height:70px;">
-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" alt="MySQL" style="width: 70px; height:70px;">
-- <img src="https://i.pinimg.com/564x/b5/d6/27/b5d62700b569fc99f02636488e42f26e.jpg" alt="MongoDB" style="width: 70px; height:70px;">
-- <img src="https://i.pinimg.com/564x/3c/78/c3/3c78c33276b4bf901f496744e20492aa.jpg" alt="Postman" style="width: 70px; height:70px;">
-- <img src="https://i.pinimg.com/564x/46/d1/c5/46d1c53dac3d48c9b79c8bd58e376d59.jpg" alt="Secure Coding Practices" style="width: 70px; height:70px;">
-</div>
-
-### Cloud and DevOps
-<div style="display: flex; gap: 4;">
-- <img src="http://www.aionsolution.com/wp-content/uploads/2017/10/microsoft-azure-640x401.png" alt="Microsoft Azure (Custom Vision, Web App)" style="width: 70px; height:70px;">
-- <img src="https://i.pinimg.com/736x/b3/e6/20/b3e6202f5356edebd8c8205623eef0f1.jpg" alt="Docker and Docker Compose" style="width: 70px; height:70px;">
-- <img src="https://i.pinimg.com/564x/ba/c9/8c/bac98cfbbd24b9e481e20da3fb138a62.jpg" alt="GitHub Actions" style="width: 70px; height:70px;">
-- <img src="https://cucumber.io/cucumber/media/blog/hiptest/devops-process.png" alt="DevOps" style="width: 70px; height:70px;">
-</div>
-
-### Collaboration and Version Control
-<div style="display: flex; gap: 4;">
-- <img src="https://i.pinimg.com/564x/46/ed/f9/46edf955a0d469b62f9ed8fb55c534ea.jpg" alt="Version Control with Git" style="width: 70px; height:70px;">
-- <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo-1024x592.jpg" alt="GitHub" style="width: 70px; height:70px;">
-- <img src="https://i.pinimg.com/564x/60/0a/ac/600aacef4d53d3139ffc017443d2c492.jpg" alt="Agile Methodology" style="width: 70px; height:70px;">
-- <img src="https://spyro-soft.com/wp-content/uploads/2022/10/jira-icon-300x300.png" alt="Jira (Scrum)" style="width: 70px; height:70px;">
-- <img src="https://i.pinimg.com/564x/03/3d/15/033d154d6cdb4c874ace55237e6beda4.jpg" alt="Microsoft Teams" style="width: 70px; height:70px;">
-</div>
-<br/>
-<div>
-I strongly embrace clean code, test-driven development, and following best practices in software development. My goal is to collaborate on exciting projects, apply these principles, and achieve excellence together. Let's create something amazing!
-</div>
-
-## Get in Touch 📫
-
-- <button>GitHub</button>: [JimsonXD](https://github.com/JimsonXD)
-- LinkedIn: [Jimson Montederamos](https://www.linkedin.com/in/jimsonmontederamos/)
-- Email: [Jimson@missionreadyhq.com](mailto:Jimson@missionreadyhq.com)
+- 📫 How to reach me **vivek.p9737@gmail.com**
 
 
+	
+### 🛠 &nbsp;Languages and Tools
+
+**Frontend:**
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+- ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+- ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+- ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
+- ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+- ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+- ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
+- ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+- ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+**Backend:**
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Collaboration and Version Control:**
+- ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+
+**Cloud and DevOps:**
+- ![Node.js](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+- ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
+- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/vivek9patel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivek9patel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivek9patel&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+<!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://linkedin.com/in/vivek9patel"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:vivek.p9737@gmail.com"><img src="https://img.shields.io/badge/-vivek.p9737@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/vivek9patel"><img src="https://img.shields.io/badge/-@vivek9patel-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
