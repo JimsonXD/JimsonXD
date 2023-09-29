@@ -18,7 +18,7 @@ Hi there👋 I'm Jimson Montederamos, an enthusiastic software developer on a co
 
 ### Backend
 <div style="display: flex; gap: 4;">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/100px-Node.js_logo.svg.png" alt="Node.js">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/100px-Node.js_logo.svg.png" alt="Node.js" style="width: 100px; height: 100px;">
 - <img src="https://i.pinimg.com/564x/36/9f/e7/369fe719a5e682dc66f03a3b13687f7f.jpg" alt="Express.js" style="width: 100px; height: 100px;">
 - <img src="https://wiki.distech-controls.com/site-graphics-v2/restful-api-logo-01.png" alt="RESTful API Development" style="width: 100px; height: 100px;">
 - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" alt="MySQL">
