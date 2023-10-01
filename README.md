@@ -6,6 +6,7 @@
 
 ### ⚙️ &nbsp; Personal Project
 - [E-commerce](https://6516b20ade7a676e65bc0614--velvety-entremet-da0840.netlify.app/)
+- [![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
 - [Rental Property Listing](https://6516af91d6bcc36c93565c44--precious-travesseiro-618cf0.netlify.app/)
 
 ### 🛠 &nbsp;Languages and Tools
