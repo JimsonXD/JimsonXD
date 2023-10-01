@@ -6,7 +6,6 @@
 
 ### ⚙️ &nbsp; Personal Project
 [![E-commerce](https://img.shields.io/badge/E--commerce-%E2%86%97-brightgreen?style=for-the-badge)](https://6516b20ade7a676e65bc0614--velvety-entremet-da0840.netlify.app/)
-
 [![Rental Property Listing](https://img.shields.io/badge/Rental%20Property%20Listing-%E2%86%97-brightgreen?style=for-the-badge)](https://6516af91d6bcc36c93565c44--precious-travesseiro-618cf0.netlify.app/)
 
 [E-commerce](https://6516b20ade7a676e65bc0614--velvety-entremet-da0840.netlify.app/)
