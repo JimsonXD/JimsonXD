@@ -5,6 +5,8 @@
 - My goal is to collaborate on exciting projects, apply these principles, and achieve excellence together. Let's create something amazing!
 
 ### ⚙️ &nbsp; Projects
+- [![jimsondev.netlify.app](https://img.shields.io/badge/jimsondev.netlify.app-%E2%86%97-brightgreen?style=for-the-badge)](https://jimsondev.netlify.app/) [![GitHub](https://img.shields.io/badge/code-%E2%86%92-black?style=for-the-badge&logo=github)](https://github.com/JimsonXD/metro-rental-property-frontend)
+
 - [![nikenz.netlify.app](https://img.shields.io/badge/nikenz.netlify.app-%E2%86%97-brightgreen?style=for-the-badge)](https://nikenz.netlify.app/) [![GitHub](https://img.shields.io/badge/code-%E2%86%92-black?style=for-the-badge&logo=github)](https://github.com/your-github-repository-link)
 
 - [![metronz.netlify.app](https://img.shields.io/badge/metronz.netlify.app-%E2%86%97-brightgreen?style=for-the-badge)](https://metronz.netlify.app/) [![GitHub](https://img.shields.io/badge/code-%E2%86%92-black?style=for-the-badge&logo=github)](https://github.com/JimsonXD/metro-rental-property-frontend)
