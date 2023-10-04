@@ -11,6 +11,8 @@
 
 - [![metronz.netlify.app](https://img.shields.io/badge/metronz.netlify.app-%E2%86%97-brightgreen?style=for-the-badge)](https://metronz.netlify.app/) [![GitHub](https://img.shields.io/badge/code-%E2%86%92-black?style=for-the-badge&logo=github)](https://github.com/JimsonXD/metro-rental-property-frontend)
 
+- [![levelupnz.netlify.app](https://img.shields.io/badge/levelupnz.netlify.app-%E2%86%97-brightgreen?style=for-the-badge)](https://levelupnz.netlify.app/) [![GitHub](https://img.shields.io/badge/code-%E2%86%92-black?style=for-the-badge&logo=github)](https://github.com/JimsonXD/metro-rental-property-frontend)
+
 ### 🛠 &nbsp;Languages and Tools
 
 **Frontend:**
